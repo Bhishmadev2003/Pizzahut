@@ -29,7 +29,6 @@ To perform end-to-end **exploratory data analysis** using SQL to answer key busi
 Pizzahut/
 │
 ├── pizzahut_sales_data.csv
-├── pizzahut_sales_schema.sql
 ├── analysis_queries.sql
 ├── insights.md
 └── README.md
