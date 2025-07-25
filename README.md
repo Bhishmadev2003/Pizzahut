@@ -1,4 +1,4 @@
-# 🍕 PizzaHut Sales Analysis (SQL Project)
+# 🍕 pizzahut-sales-analysis-sql
 
 This project focuses on analyzing **PizzaHut's sales data using SQL**. It includes a series of SQL queries to extract meaningful business insights from the raw dataset — helping understand revenue trends, customer preferences, and product performance.
 
